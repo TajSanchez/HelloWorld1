@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1.csproj": {}
+    "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1\\HelloWorld1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1.csproj": {
+    "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1\\HelloWorld1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1.csproj",
+        "projectUniqueName": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1\\HelloWorld1.csproj",
         "projectName": "HelloWorld1",
-        "projectPath": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1.csproj",
+        "projectPath": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1\\HelloWorld1.csproj",
         "packagesPath": "C:\\Users\\tajma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\obj\\",
+        "outputPath": "C:\\Users\\tajma\\Desktop\\REPOS\\HelloWorld1\\HelloWorld1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
